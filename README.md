@@ -15,6 +15,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 An application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. Deployed the application to Heroku.
 
 ## Mock-Up
+![image](https://user-images.githubusercontent.com/87274229/137008788-bc5d1eba-c8db-4259-9660-8ce163b1cd50.png)
 
 
 
